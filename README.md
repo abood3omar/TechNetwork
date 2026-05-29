@@ -81,28 +81,14 @@ The MySQL database is strictly normalized (3NF) to guarantee Data Integrity, uti
 
 ---
 
-## 📸 System Screenshots & Architecture Diagrams
-*(Add your screenshots in an `/assets` folder and uncomment the links below)*
-
-* **Database ERD (Entity Relationship Diagram)**
-  * <!-- ![ERD](./assets/erd.png) -->
-* **n8n AI Orchestration Workflows**
-  * <!-- ![n8n Flow](./assets/n8n-workflow.png) -->
-* **Company Recruitment Dashboard**
-  * <!-- ![Company UI](./assets/company-dashboard.png) -->
-* **Developer Smart Portfolio & CV Analysis**
-  * <!-- ![Developer UI](./assets/developer-profile.png) -->
-
----
-
 ## 👨‍💻 Development Team
 
 TechNetwork was developed as a comprehensive Graduation Project at **Al al-Bayt University**, Faculty of Information Technology (Computer Science Department), under the supervision of **Dr. Suhair Bani Ata**[cite: 1].
 
-* **Backend, System Architecture & AI Pipelines:**  
-  **Abdalrhman Hamed** | [LinkedIn](https://www.linkedin.com/in/YOUR-LINKEDIN-URL-HERE) | [GitHub](https://github.com/YOUR-GITHUB-USERNAME)[cite: 1]
+* **Backend, System Architecture , FrontEnd :**  
+  **Abdalrhman Hamed** | [LinkedIn](https://www.linkedin.com/in/abdalrhman-hamed) | [GitHub](https://github.com/abood3omar)[cite: 1]
 
-* **Frontend, UI/UX Engineering & State Management:**  
+* **Frontend & AI Pipelines:**  
   **Mohammad Al Bzoor** | [LinkedIn](https://www.linkedin.com/in/MOHAMMAD-LINKEDIN-URL-HERE) | [GitHub](https://github.com/MOHAMMAD-GITHUB-USERNAME)[cite: 1]
 
 ---
